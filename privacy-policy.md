@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Mugs-ToDo App**  
-Effective Date: [Insert Date]
+Effective Date: May 5, 2025
 
 This Privacy Policy explains how your information is handled in our ToDo App.
 
@@ -22,5 +22,5 @@ We may update our Privacy Policy from time to time. Any changes will be posted i
 ## Contact
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:  
-[Your Email Address]
+alexismichael2015@gmail.com
 
